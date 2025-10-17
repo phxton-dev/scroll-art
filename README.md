@@ -77,4 +77,4 @@ The program initializes a character matrix sized to the terminal width and art h
    The `getTerminalWidth()` method automatically adjusts for different terminal sizes on Unix-based systems.
 
 **Testing and adjustments:**
-Frame delay and spawn probability were tuned to balance visual smoothness and variety. ASCII alignment was checked to prevent overlap when multiple symbols appear on screen. The final version runs smoothly in standard terminal environments without graphical libraries.
+
