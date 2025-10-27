@@ -14,8 +14,8 @@
 
 ### Run
 
-javac src *.java
-java MovingSymbols
+`javac src *.java`
+`java MovingSymbols`
 
 ### Process documentation
 I devised a sword design myself. I used JavE 5 to first construct my ASCII art and I exported it to notepad. I then pasted it into the IDE and adjusted it. I pasted Ari Hallak's penguin and I converted both Dilan Shah's ball and Maria Sek's llama to strings. 
